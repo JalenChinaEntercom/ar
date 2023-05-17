@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.citictel-cpc.its.teamwork</string>
+				<string>com.uat.cpcits.ARsolution</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Teamwork</string>
+				<string>ar</string>
 			</dict>
 		</dict>
 	</array>
